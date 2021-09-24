@@ -17,6 +17,10 @@ export default function Home() {
           name="description"
           content="Full-Stack Developer with 8+ years of experience building top quality web experiences."
         />
+        <meta
+          name="keywords"
+          content="vannelo, programmer, coding, laravel, nodejs, reactjs, allan, castellanos, programador, musician, designer"
+        />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
