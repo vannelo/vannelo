@@ -26,6 +26,9 @@
   padding: 10px;
   font-size: 20px;
 }
+.social a:hover {
+  color: #f11ba9;
+}
 
 .stack {
   padding: 100px 20px;
@@ -44,6 +47,7 @@
   border: none;
   font-size: 18px;
   padding: 5px 15px;
+  color: #1d1d1d;
   border-bottom: 2px solid white;
 }
 .stack .button:focus {

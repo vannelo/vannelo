@@ -15,7 +15,11 @@ export default function Home() {
         <title>Vannelo | Web experiences artisan</title>
         <meta
           name="description"
-          content="Full-Stack Developer with 8+ years of experience building top quality web experiences."
+          content="I am a Full-Stack Developer/Software Engineer with 8+ years of
+          experience in web development, creating top quality websites with
+          cutting edge techonologies. I believe that success is in the
+          details, therefore, I always seek excellence in every project in
+          which I get involved."
         />
         <meta
           name="keywords"
