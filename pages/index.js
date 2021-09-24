@@ -25,6 +25,20 @@ export default function Home() {
           name="keywords"
           content="vannelo, programmer, coding, laravel, nodejs, reactjs, allan, castellanos, programador, musician, designer"
         />
+        <meta name="author" content="Vannelo - https://www.vannelo.com" />
+        <meta name="copyright" content="Vannelo - https://www.vannelo.com" />
+        <meta property="og:title" content="Vannelo | Web experiences artisan" />
+        <meta
+          property="og:description"
+          content="I am a Full-Stack Developer/Software Engineer with 8+ years of
+          experience in web development, creating top quality websites with
+          cutting edge techonologies. I believe that success is in the
+          details, therefore, I always seek excellence in every project in
+          which I get involved."
+        />
+        <meta property="og:url" content="https://vannelo.com" />
+        <meta property="og:image" content="https://vannelo.com/meta.jpg" />
+        <meta property="og:type" content="website" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
