@@ -115,10 +115,10 @@ export default function Home() {
             </div>
             <h3>
               I am a Full-Stack Developer / Software Engineer with 8+ years of
-              experience in web development, creating top quality websites with
-              cutting edge techonologies. I believe that success is in the
-              details, therefore, I always seek excellence in every project in
-              which I get involved.
+              experience in web development, crafting more than 70 top quality
+              websites with cutting edge techonologies. I believe that success
+              is in the details, therefore, I always seek excellence in every
+              project in which I get involved.
             </h3>
           </section>
           <section className={styles.stack} id="stack">
