@@ -38,6 +38,11 @@ export default function Home() {
         />
         <meta property="og:url" content="https://vannelo.com" />
         <meta property="og:image" content="https://vannelo.com/meta.jpg" />
+        <meta
+          name="image"
+          property="og:image"
+          content="https://vannelo.com/meta.jpg"
+        />
         <meta property="og:type" content="website" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
