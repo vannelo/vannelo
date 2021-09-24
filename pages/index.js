@@ -114,7 +114,7 @@ export default function Home() {
               </a>
             </div>
             <h3>
-              I am a Full-Stack Developer/Software Engineer with 8+ years of
+              I am a Full-Stack Developer / Software Engineer with 8+ years of
               experience in web development, creating top quality websites with
               cutting edge techonologies. I believe that success is in the
               details, therefore, I always seek excellence in every project in
