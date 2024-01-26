@@ -1,5 +1,5 @@
 import Image from "next/image";
-import HTMLHead from "../../components/Layout/HtmlHead";
+import HTMLHead from "../../components/Layout/HTMLHead";
 import Navigation from "../../components/Layout/Navigation";
 import styles from "../../styles/portfolio.module.scss";
 import Link from "next/link";

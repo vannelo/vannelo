@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { useState } from "react";
-import HTMLHead from "../components/Layout/HtmlHead";
+import HTMLHead from "../components/Layout/HTMLHead";
 import Navigation from "../components/Layout/Navigation";
 import styles from "../styles/index.module.scss";
 import STACK from "../constants/stack";
