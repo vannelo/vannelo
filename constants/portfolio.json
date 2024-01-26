@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Alex Hoyer",
+    "image": "alex-hoyer.png",
+    "link": "https://www.alexhoyer.mx",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Adelantto",
+    "image": "adelantto.png",
+    "link": "https://adelantto.com",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Trendsetera",
+    "image": "trendsetera.png",
+    "link": "http://www.trendsetera.com.mx",
+    "tech": "React, NextJs, HTML & CSS"
+  }
+]

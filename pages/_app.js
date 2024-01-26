@@ -1,4 +1,3 @@
-import "../styles/bootstrap.min.css";
 import "../styles/main.css";
 
 function MyApp({ Component, pageProps }) {
