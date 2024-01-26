@@ -10,12 +10,12 @@
   outline: none;
 }
 .button.active {
-  color: #f11ba9;
-  border-bottom: 2px solid #f11ba9;
+  color: #f11ba9 !important;
+  border-bottom: 2px solid #f11ba9 !important;
 }
 .button.active:hover {
-  color: #f11ba9;
-  border-bottom: 2px solid #f11ba9;
+  color: #f11ba9 !important;
+  border-bottom: 2px solid #f11ba9 !important;
 }
 .button:hover {
   color: #848484;

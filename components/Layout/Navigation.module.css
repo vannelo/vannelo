@@ -8,7 +8,7 @@
   padding: 0 1.4rem;
 }
 .desktop a:hover {
-  color: #f11ba9;
+  color: #f11ba9 !important;
   text-decoration: none;
 }
 
@@ -23,7 +23,7 @@
     padding: 10px 20px;
   }
   .desktop a:hover {
-    color: #f11ba9;
+    color: #f11ba9 !important;
     text-decoration: none;
   }
 }
