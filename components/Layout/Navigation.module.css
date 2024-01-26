@@ -1,11 +1,11 @@
 .desktop {
   text-align: center;
-  padding: 30px 20px;
+  padding: 1.5rem;
 }
 .desktop a {
   display: inline-block;
-  font-size: 30px;
-  padding: 10px 30px;
+  font-size: 1.8rem;
+  padding: 0 1.4rem;
 }
 .desktop a:hover {
   color: #f11ba9;

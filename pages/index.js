@@ -3,7 +3,7 @@ import Image from "next/image";
 import { useState } from "react";
 import Navigation from "../components/Layout/Navigation";
 import styles from "./index.module.css";
-import STACK from "../components/Stack";
+import STACK from "../constants/stack";
 import CATEGORIES from "../components/Categories";
 
 export default function Home() {
@@ -114,16 +114,16 @@ export default function Home() {
               </a>
             </div>
             <h3>
-              I am a Full-Stack Developer / Software Engineer with 8+ years of
-              experience in web development, crafting more than 70 top quality
-              websites with cutting edge technologies. I believe that success is
-              in the details, therefore, I always seek excellence in every
-              project in which I get involved.
+              Results-driven and highly skilled Fullstack Software Engineer with
+              a proven track record of success spanning eight years in the
+              industry. Adept at collaborating within multicultural teams on a
+              global scale, with experience contributing to the success of major
+              corporations.
             </h3>
           </section>
           <section className={styles.stack} id="stack">
-            <h3>Stack</h3>
-            <p>50+ Technologies I love to use in my work</p>
+            <h3>Tech Stack</h3>
+            <p>50+ Technologies I&apos;ve used to build awesome stuff!</p>
             <div className={styles.items}>
               <div className={styles.categories}>
                 {CATEGORIES.map((category) => (
@@ -144,7 +144,7 @@ export default function Home() {
                 <div className="row justify-content-center">
                   {categoryActive === "All" &&
                     STACK.map((item) => (
-                      <div className="col-lg-3 col-6" key={item.key}>
+                      <div className="col-lg-3 col-6" key={item.name}>
                         <article className={styles.item}>
                           <div className={styles.image}>
                             <Image
