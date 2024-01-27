@@ -12,9 +12,453 @@
     "tech": "React, NextJs, HTML & CSS"
   },
   {
+    "name": "Citi",
+    "image": "citi.png",
+    "link": "https://www.citi.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Danna Paola",
+    "image": "danna-paola.png",
+    "link": "https://www.dannaworld.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "LiveRamp",
+    "image": "liveramp.png",
+    "link": "https://liveramp.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Open Table",
+    "image": "open-table.png",
+    "link": "https://www.opentable.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Paypal",
+    "image": "paypal.png",
+    "link": "https://www.paypal.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Rubrik",
+    "image": "rubrik.png",
+    "link": "https://www.rubrik.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
     "name": "Trendsetera",
     "image": "trendsetera.png",
     "link": "http://www.trendsetera.com.mx",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Purua",
+    "image": "purua.png",
+    "link": "http://purua.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "r.a.n.p",
+    "image": "ranp.png",
+    "link": "http://ranpstudio.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Habitus",
+    "image": "habitus.png",
+    "link": "http://habitus.digital/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Sr Pago",
+    "image": "sr-pago.png",
+    "link": "https://www.senorpago.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Mi tienda",
+    "image": "mi-tienda.png",
+    "link": "http://mitienda.live/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Sr-Ecommerce",
+    "image": "sr-pago-ecommers.png",
+    "link": "https://srpagoecommerce.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Museo Nacional de Historia",
+    "image": "museo-nacional.png",
+    "link": "https://mnh.inah.gob.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Museo de Arte Moderno",
+    "image": "museo-arte-moderno.png",
+    "link": "https://mam.inba.gob.mx/home.html",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Museo Nacional de las Culturas Populares",
+    "image": "museo-culturas.png",
+    "link": "https://museoculturaspopulares.gob.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Museo Nacional del Virreinato",
+    "image": "museo-virreinato.png",
+    "link": "https://virreinato.inah.gob.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Museo Nacional de San Carlos",
+    "image": "museo-san-carlos.png",
+    "link": "https://mnsancarlos.inba.gob.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Museo Nacional de la Estampa",
+    "image": "museo-estampa.png",
+    "link": "https://munae.inba.gob.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "León Larregui",
+    "image": "leon-larregui.png",
+    "link": "https://www.leonlarregui.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Fonda Argentina",
+    "image": "fonda-argentina.png",
+    "link": "https://fondaargentina.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Fanático",
+    "image": "fanatico.png",
+    "link": "https://www.fanatico.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Ultra Coahuila",
+    "image": "ultra-coahuila.png",
+    "link": "https://www.ultracoahuila.com/ultra/index.php",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Terraza Pepita",
+    "image": "terraza-pepita.png",
+    "link": "https://www.terrazapepita.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Tout Chocolat",
+    "image": "tout.png",
+    "link": "http://toutchocolat.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Mx Web Desing",
+    "image": "web-desing.png",
+    "link": "https://mxwebdesign.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "SUB 777",
+    "image": "Sub-777.png",
+    "link": "https://sud777.com.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "SOF",
+    "image": "sof.png",
+    "link": "http://soundsofthefuture.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Espiritus",
+    "image": "espiritus.png",
+    "link": "/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Playas D´Sinaloa",
+    "image": "sinaloa.png",
+    "link": "https://playasdesinaloa.com.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Patch it",
+    "image": "patch.png",
+    "link": "https://patchitmx.myshopify.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Radio Concierto",
+    "image": "radio.png",
+    "link": "https://radioconcierto.org.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Red Mexico",
+    "image": "red.png",
+    "link": "https://redmexico.org.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Polygon",
+    "image": "polygon.png",
+    "link": "https://www.polygonag.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Partow",
+    "image": "partow.png",
+    "link": "http://www.partowrugs.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Mass Datura",
+    "image": "mass.png",
+    "link": "http://massdatura.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Signar",
+    "image": "signar.png",
+    "link": "http://signar.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Be Bag",
+    "image": "be-bag.png",
+    "link": "https://be-bag.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Studio Gibbon",
+    "image": "studio.png",
+    "link": "https://www.studiogibbon.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Stone Gallery",
+    "image": "stone.png",
+    "link": "https://www.grupogapc.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Kool Drive",
+    "image": "kool.png",
+    "link": "https://www.kooldrive.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "La Pastelería",
+    "image": "pasteleria.png",
+    "link": "https://lapasteleria.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "La Barra de Fran",
+    "image": "la-barra.png",
+    "link": "https://www.labarradefran.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Koma",
+    "image": "koma.png",
+    "link": "http://komamx.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Comedor Jacinta",
+    "image": "jacinta.png",
+    "link": "http://comedorjacinta.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Ivette Berrondo",
+    "image": "ivette.png",
+    "link": "https://www.ivetteberrondo.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Erick Meyenberg",
+    "image": "erick.png",
+    "link": "http://erickmeyenberg.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Toy Factory",
+    "image": "toy.png",
+    "link": "https://toyfactory.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Panoram",
+    "image": "panoram.png",
+    "link": "http://panoramstudios.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Now Girls Rule",
+    "image": "girls.png",
+    "link": "http://nowgirlsrule.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Hacienda la Puerta",
+    "image": "puerta.png",
+    "link": "https://www.haciendalapuerta.com.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Zoé Comunicaciones",
+    "image": "zoe.png",
+    "link": "https://streamingmx.com.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Gift Group",
+    "image": "gift.png",
+    "link": "https://gift.group/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Long Island",
+    "image": "island.png",
+    "link": "https://longisland.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "El Pana",
+    "image": "pana.png",
+    "link": "https://www.mipanaelpana.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "D' La Gourmet",
+    "image": "d.png",
+    "link": "https://www.d-lagourmet.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Cymaq",
+    "image": "cymaq.png",
+    "link": "https://cymaq.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Edgar Nuñez",
+    "image": "edgar.png",
+    "link": "https://www.edgarnunez.com.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Breathfusion",
+    "image": "breathfusion.png",
+    "link": "http://breathfusion.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Go Cycle",
+    "image": "cycle.png",
+    "link": "https://gocycle.com/#intro",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Hanson",
+    "image": "hanson.png",
+    "link": "https://hanson.mx/index.php",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Tienda Tec",
+    "image": "tec.png",
+    "link": "https://tiendatec.com.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Los Lideres del Mercado",
+    "image": "lideres.png",
+    "link": "http://loslideresdelmercado.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Jaime Juarez",
+    "image": "jaime.png",
+    "link": "http://jaimejuarez.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Finest Business",
+    "image": "finest.png",
+    "link": "https://finestbusinessconsulting.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Creando Bebés",
+    "image": "bebes.png",
+    "link": "https://creandobebes.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Lunch Studio",
+    "image": "lunch.png",
+    "link": "https://lunchstudio.com.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Park Energy",
+    "image": "park.png",
+    "link": "https://www.parkenergyservices.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Blue Dev",
+    "image": "dev.png",
+    "link": "/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Xpress",
+    "image": "xpress.png",
+    "link": "https://xpressoencreatividad.com.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Bio Products",
+    "image": "bio.png",
+    "link": "https://www.bioproductsgt.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Kids Planet",
+    "image": "kids.png",
+    "link": "https://www.kidsplanet.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Olmo",
+    "image": "Olmo.png",
+    "link": "/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Optivisa",
+    "image": "optivisa.png",
+    "link": "/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Ivo",
+    "image": "ivo.png",
+    "link": "https://ivo.com.mx/",
     "tech": "React, NextJs, HTML & CSS"
   }
 ]
