@@ -15,7 +15,13 @@ export default function Portfolio() {
           <h1>Portfolio</h1>
           <div className={styles.grid}>
             {PORTFOLIO.map((item, index) => (
-              <Link href={item.link} className={styles.item} key={index}>
+              <Link
+                href={item.link}
+                className={styles.item}
+                key={index}
+                target="blank"
+                rel="noreferrer"
+              >
                 <article>
                   <div className={styles.image}>
                     <Image
@@ -35,6 +41,7 @@ export default function Portfolio() {
                   <div className={styles.name}>
                     <h4>{item.name}</h4>
                   </div>
+
                   <div className={styles.tech}>
                     <p>{item.tech}</p>
                   </div>
