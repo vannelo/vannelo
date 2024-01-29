@@ -445,7 +445,7 @@
   },
   {
     "name": "Olmo",
-    "image": "Olmo.png",
+    "image": "olmo.png",
     "link": "/",
     "tech": "React, NextJs, HTML & CSS"
   },
