@@ -12,7 +12,11 @@ export default function Portfolio() {
       <main className={styles.main}>
         <Navigation />
         <div className="container">
-          <h1>Portfolio</h1>
+          <h2 className={styles.title}>Portfolio</h2>
+          <p className={styles.subtitle}>
+            {PORTFOLIO.length} projects I have worked on from scratch or
+            contributed to.
+          </p>
           <div className={styles.grid}>
             {PORTFOLIO.map((item, index) => (
               <Link

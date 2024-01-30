@@ -42,6 +42,12 @@
     "tech": "React, NextJs, HTML & CSS"
   },
   {
+    "name": "León Larregui",
+    "image": "leon-larregui.png",
+    "link": "https://www.leonlarregui.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
     "name": "Rubrik",
     "image": "rubrik.png",
     "link": "https://www.rubrik.com/",
@@ -72,7 +78,7 @@
     "tech": "React, NextJs, HTML & CSS"
   },
   {
-    "name": "Sr Pago",
+    "name": "Sr. Pago",
     "image": "sr-pago.png",
     "link": "https://www.senorpago.com/",
     "tech": "React, NextJs, HTML & CSS"
@@ -125,12 +131,7 @@
     "link": "https://munae.inba.gob.mx/",
     "tech": "React, NextJs, HTML & CSS"
   },
-  {
-    "name": "León Larregui",
-    "image": "leon-larregui.png",
-    "link": "https://www.leonlarregui.com/",
-    "tech": "React, NextJs, HTML & CSS"
-  },
+
   {
     "name": "Fonda Argentina",
     "image": "fonda-argentina.png",

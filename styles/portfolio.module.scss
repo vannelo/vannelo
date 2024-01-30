@@ -1,3 +1,16 @@
+.title {
+  font-size: 3rem;
+  padding: 0;
+  margin: 0;
+}
+.subtitle {
+  font-size: 1.5rem;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 2rem;
+  color: #f11ba9;
+}
+
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
