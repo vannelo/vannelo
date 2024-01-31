@@ -54,6 +54,48 @@
     "tech": "React, NextJs, HTML & CSS"
   },
   {
+    "name": "La Bestia",
+    "image": "la-bestia-1.png",
+    "link": "https://hola.somoslabestia.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Variegata",
+    "image": "variegata-2.png",
+    "link": "https://www.variegata.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Phenomena",
+    "image": "phenomena.png",
+    "link": "https://www.phenomena.cool/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Eduardo Chayo & Alfredo Rangel",
+    "image": "wedding-2.png",
+    "link": "https://ecaarpweddingsandevents.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "La Bestia Radio",
+    "image": "la-bestia.png",
+    "link": "https://www.labestiaradio.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "TMBC",
+    "image": "tmbc.png",
+    "link": "https://www.themusicbusinesscompany.com/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
+    "name": "Insight Agency",
+    "image": "insight.png",
+    "link": "https://www.insightagency.com.mx/",
+    "tech": "React, NextJs, HTML & CSS"
+  },
+  {
     "name": "Trendsetera",
     "image": "trendsetera.png",
     "link": "http://www.trendsetera.com.mx",
