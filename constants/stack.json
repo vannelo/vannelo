@@ -30,6 +30,26 @@
     "category": "Front-End"
   },
   {
+    "name": "Remix",
+    "image": "/img/remix.jpg",
+    "category": "Front-End"
+  },
+  {
+    "name": "OpenAI",
+    "image": "/img/open-ai.jpg",
+    "category": "Front-End"
+  },
+  {
+    "name": "Python",
+    "image": "/img/python.jpg",
+    "category": "Back-End"
+  },
+  {
+    "name": "Prisma",
+    "image": "/img/prisma.jpg",
+    "category": "Databases"
+  },
+  {
     "name": "AWS Lambda",
     "image": "/img/aws-lambda.png",
     "category": "Cloud"

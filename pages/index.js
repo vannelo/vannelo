@@ -76,7 +76,9 @@ export default function Home() {
           </section>
           <section className={styles.stack} id="stack">
             <h3>Tech Stack</h3>
-            <p>50+ Technologies I&apos;ve used to build awesome stuff!</p>
+            <h2>
+              {STACK.length} Technologies I&apos;ve used to build awesome stuff!
+            </h2>
             <div className={styles.items}>
               <div className={styles.categories}>
                 {CATEGORIES.map((category) => (
