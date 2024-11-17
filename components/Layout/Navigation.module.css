@@ -1,0 +1,29 @@
+.desktop {
+  text-align: center;
+  padding: 1rem;
+}
+.desktop a {
+  display: inline-block;
+  font-size: 1.8rem;
+  padding: 0 1.4rem;
+}
+.desktop a:hover {
+  color: #f11ba9 !important;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 1000px) {
+  .desktop {
+    text-align: center;
+    padding: 20px;
+  }
+  .desktop a {
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px 20px;
+  }
+  .desktop a:hover {
+    color: #f11ba9 !important;
+    text-decoration: none;
+  }
+}

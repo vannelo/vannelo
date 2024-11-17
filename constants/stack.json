@@ -1,0 +1,352 @@
+[
+  {
+    "name": "ReactJS",
+    "image": "/img/react-js.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "NextJS",
+    "image": "/img/next-js.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "TypeScript",
+    "image": "/img/typescript.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "JavaScript",
+    "image": "/img/javascript.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "GraphQL",
+    "image": "/img/graphql.png",
+    "category": "Databases"
+  },
+  {
+    "name": "Next Auth",
+    "image": "/img/next-auth.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Remix",
+    "image": "/img/remix.jpg",
+    "category": "Front-End"
+  },
+  {
+    "name": "OpenAI",
+    "image": "/img/open-ai.jpg",
+    "category": "Front-End"
+  },
+  {
+    "name": "Python",
+    "image": "/img/python.jpg",
+    "category": "Back-End"
+  },
+  {
+    "name": "Prisma",
+    "image": "/img/prisma.jpg",
+    "category": "Databases"
+  },
+  {
+    "name": "AWS Lambda",
+    "image": "/img/aws-lambda.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "AWS Amplify",
+    "image": "/img/aws-amplify.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "AWS Cognito",
+    "image": "/img/aws-cognito.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "AWS Dynamo",
+    "image": "/img/aws-dynamo.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "AWS S3",
+    "image": "/img/aws-s3.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "AWS SES",
+    "image": "/img/aws-ses.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "AngularJS",
+    "image": "/img/angular-js.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Redux",
+    "image": "/img/redux.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Material UI",
+    "image": "/img/mui.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Github Actions",
+    "image": "/img/github-actions.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "Storybook",
+    "image": "/img/storybook.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Styled Components",
+    "image": "/img/styled-components.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Contentful",
+    "image": "/img/contentful.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Jest",
+    "image": "/img/jest.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "jQuery",
+    "image": "/img/jquery.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "HTML5",
+    "image": "/img/html-5.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "CSS3",
+    "image": "/img/css-3.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "SASS",
+    "image": "/img/sass.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Bootstrap",
+    "image": "/img/bootstrap.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Tailwind",
+    "image": "/img/tailwind.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Laravel",
+    "image": "/img/laravel.png",
+    "category": "Back-End"
+  },
+  {
+    "name": "NodeJS",
+    "image": "/img/node-js.png",
+    "category": "Back-End"
+  },
+  {
+    "name": "PHP",
+    "image": "/img/php.png",
+    "category": "Back-End"
+  },
+  {
+    "name": "MongoDB",
+    "image": "/img/mongo-db.png",
+    "category": "Databases"
+  },
+  {
+    "name": "PostgreSQL",
+    "image": "/img/postgressql.png",
+    "category": "Databases"
+  },
+  {
+    "name": "MySQL",
+    "image": "/img/mysql.png",
+    "category": "Databases"
+  },
+  {
+    "name": "Amazon RDS",
+    "image": "/img/amazon-rds.png",
+    "category": "Databases"
+  },
+  {
+    "name": "Google Firebase",
+    "image": "/img/firebase.png",
+    "category": "Databases"
+  },
+  {
+    "name": "Amazon AWS",
+    "image": "/img/aws.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "Team City",
+    "image": "/img/team-city.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "Digital Ocean",
+    "image": "/img/digital-ocean.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "Vercel",
+    "image": "/img/vercel.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "Heroku",
+    "image": "/img/heroku.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "GitHub",
+    "image": "/img/github.png",
+    "category": "Team Tools"
+  },
+  {
+    "name": "Gitlab",
+    "image": "/img/gitlab.png",
+    "category": "Team Tools"
+  },
+  {
+    "name": "Jira",
+    "image": "/img/jira.png",
+    "category": "Team Tools"
+  },
+  {
+    "name": "Slack",
+    "image": "/img/slack.png",
+    "category": "Team Tools"
+  },
+  {
+    "name": "Asana",
+    "image": "/img/asana.png",
+    "category": "Team Tools"
+  },
+  {
+    "name": "Meister",
+    "image": "/img/meister.png",
+    "category": "Team Tools"
+  },
+  {
+    "name": "Wordpress",
+    "image": "/img/wordpress.png",
+    "category": "CMS"
+  },
+  {
+    "name": "WooCommerce",
+    "image": "/img/woocommerce.png",
+    "category": "CMS"
+  },
+  {
+    "name": "Shopify",
+    "image": "/img/shopify.png",
+    "category": "CMS"
+  },
+  {
+    "name": "Magento",
+    "image": "/img/magento.png",
+    "category": "CMS"
+  },
+  {
+    "name": "Webflow",
+    "image": "/img/webflow.png",
+    "category": "CMS"
+  },
+  {
+    "name": "Zoho",
+    "image": "/img/zoho.png",
+    "category": "CRM"
+  },
+  {
+    "name": "HubSpot",
+    "image": "/img/hubspot.png",
+    "category": "CRM"
+  },
+  {
+    "name": "Zapier",
+    "image": "/img/zapier.png",
+    "category": "CRM"
+  },
+  {
+    "name": "HotJar",
+    "image": "/img/hotjar.png",
+    "category": "CRM"
+  },
+  {
+    "name": "Google Analytics",
+    "image": "/img/analytics.png",
+    "category": "CRM"
+  },
+  {
+    "name": "Facebook Pixel",
+    "image": "/img/facebook-pixel.png",
+    "category": "CRM"
+  },
+  {
+    "name": "Photoshop",
+    "image": "/img/photoshop.png",
+    "category": "Graphic Design"
+  },
+  {
+    "name": "Illustrator",
+    "image": "/img/illustrator.png",
+    "category": "Graphic Design"
+  },
+  {
+    "name": "Premiere",
+    "image": "/img/premiere.png",
+    "category": "Graphic Design"
+  },
+  {
+    "name": "XD",
+    "image": "/img/xd.png",
+    "category": "Graphic Design"
+  },
+  {
+    "name": "Figma",
+    "image": "/img/figma.png",
+    "category": "Graphic Design"
+  },
+  {
+    "name": "Zeplin",
+    "image": "/img/zeplin.png",
+    "category": "Graphic Design"
+  },
+  {
+    "name": "ProTools",
+    "image": "/img/protools.png",
+    "category": "Music Production"
+  },
+  {
+    "name": "Cubase",
+    "image": "/img/cubase.png",
+    "category": "Music Production"
+  },
+  {
+    "name": "Logic",
+    "image": "/img/logic.png",
+    "category": "Music Production"
+  },
+  {
+    "name": "Live",
+    "image": "/img/live.png",
+    "category": "Music Production"
+  }
+]
