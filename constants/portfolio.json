@@ -503,5 +503,29 @@
     "image": "ivo.png",
     "link": "https://ivo.com.mx/",
     "tech": "React, HTML & CSS"
+  },
+  {
+    "name": "Allison",
+    "image": "allison.png",
+    "link": "https://www.allison.mx/",
+    "tech": "React, NextJs, TypeScript, HTML & CSS"
+  },
+  {
+    "name": "Grupo SLP",
+    "image": "slp.png",
+    "link": "https://www.gruposlp.com/",
+    "tech": "React, NextJs, TypeScript, HTML & CSS"
+  },
+  {
+    "name": "Dante",
+    "image": "dante.png",
+    "link": "https://www.danteband.mx/",
+    "tech": "React, NextJs, TypeScript, HTML & CSS"
+  },
+  {
+    "name": "NovaZora",
+    "image": "novazora.png",
+    "link": "https://novazora.jewelry/",
+    "tech": "Shopify, HTML & CSS"
   }
 ]

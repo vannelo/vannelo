@@ -112,7 +112,7 @@
   {
     "name": "Contentful",
     "image": "/img/contentful.png",
-    "category": "Front-End"
+    "category": "CMS"
   },
   {
     "name": "Jest",
@@ -348,5 +348,75 @@
     "name": "Live",
     "image": "/img/live.png",
     "category": "Music Production"
+  },
+  {
+    "name": "Supabase",
+    "image": "/img/supabase.png",
+    "category": "Databases"
+  },
+  {
+    "name": "Tinacms",
+    "image": "/img/tinacms.png",
+    "category": "CMS"
+  },
+  {
+    "name": "Nestjs",
+    "image": "/img/nestjs.png",
+    "category": "Back-End"
+  },
+  {
+    "name": "Zustand",
+    "image": "/img/zustand.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Inngest",
+    "image": "/img/inngest.png",
+    "category": "Back-End"
+  },
+  {
+    "name": "Swagger",
+    "image": "/img/swagger.png",
+    "category": "Back-End"
+  },
+  {
+    "name": "Zod",
+    "image": "/img/zod.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Flutter",
+    "image": "/img/flutter.png",
+    "category": "App"
+  },
+  {
+    "name": "React Native",
+    "image": "/img/react-native.png",
+    "category": "App"
+  },
+  {
+    "name": "Django",
+    "image": "/img/django.png",
+    "category": "Back-End"
+  },
+  {
+    "name": "Twilio",
+    "image": "/img/twilio.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Launch Darkly",
+    "image": "/img/launch-darkly.png",
+    "category": "Front-End"
+  },
+  {
+    "name": "Google Cloud Databases",
+    "image": "/img/google-databases.png",
+    "category": "Cloud"
+  },
+  {
+    "name": "Astrojjs",
+    "image": "/img/astro.png",
+    "category": "Front-End"
   }
 ]
